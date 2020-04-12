@@ -23,7 +23,7 @@ Here is my [CV](Long-CV.pdf).
 
 ## Research Interests
 
-My research interests are in.
+My research interests are in graph theory and phylogenetic combinatorics, including combinatorics in the application of biology and quantum information.
 
 Here is my [dissertation](https://arxiv.org/abs/1404.5334). 
 
@@ -66,4 +66,5 @@ Reviewer for MathSciNet, 2018-present.
 
 ## Talks and Presentations
 
+in preparation
 

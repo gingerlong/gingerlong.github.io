@@ -1,5 +1,5 @@
 
-# Yangjing Long (龙旸靖) 
+# Yangjing Long (龙旸靖)
 
 School of Mathematics and Statistics
 
@@ -14,7 +14,7 @@ Email: longyangjing(at)gmail(dot)com
 
 ## Personal information
 
-Currently I'm an associate professor at [School of Mathematics and Statistics, 
+Currently I'm an associate professor at [School of Mathematics and Statistics,
 Center China Normal University](http://maths.ccnu.edu.cn/English/HO.htm/). I received my PhD from the [Max-Planck Institute for Mathematics]([https://www.mis.mpg.de/](https://www.mis.mpg.de/)). My advisor was [Jürgen Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and [Peter F. Stadler](http://www.bioinf.uni-leipzig.de/~studla/). My dissertation defense was on October 18th, 2014.
 
 I completed my BS in mathematics at [Shanghai Jiao Tong University](https://www.math.sjtu.edu.cn).
@@ -25,9 +25,13 @@ Here is my [CV](Long-CV.pdf).
 
 My research interests are in graph theory and phylogenetic combinatorics, including combinatorics in the application of biology and quantum information.
 
-Here is my [dissertation](https://arxiv.org/abs/1404.5334). 
+Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Publication
+[Classes of tree-based networks](https://arxiv.org/abs/1810.06844), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, to appear in Visual Computing for Industry,
+Biomedicine, and Art
+
+[Exact-2-Relation Graphs], joint with P. F. Stadler, accepted to Discrete Applied Mathematics.
 
 [A Short Note on Undirected Fitch Graphs](https://adam-journal.eu/index.php/ADAM/article/view/1245), joint with M. Geiß, M. Hellmuth, P. F. Stadler. The art of discrete and applied mathematics, 2018, 1(1).
 
@@ -51,7 +55,6 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 [Non-binary treebased unrooted phylogenetic networks and their relations to binary and rooted ones](https://arxiv.org/abs/1810.06853)
 
-[Classes of treebased networks](https://arxiv.org/abs/1810.06844)
 
 [Word-representability of split graphs](https://arxiv.org/abs/1709.09725)
 

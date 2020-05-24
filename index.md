@@ -52,7 +52,9 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 - [Relations Between Graphs](https://amc-journal.eu/index.php/amc/article/download/335/603), joint with J. Hubicka, J. Jost, P. Stadler, L. Yang, *Ars Mathematica Contemporanea*, 2012, 6 no. 2, 323-350.
 
-- [The Correspondence between Zero-divisor Graphs with 6 Vertices and Their Semigroups](https://www.worldscientific.com/doi/10.1142/S021949880700220X). joint with Y. Huang, *Journal of Algebra and its Applications*.6 (2007), no. 2, 287--290. 13-04.
+- [On orthogonal polynomial approximation with the dimensional expanding technique for precise time integration in transient analysis](https://www.sciencedirect.com/science/article/pii/S1007570406000591). joint with Y. Huang,  *Commun. Nonlinear Sci. Numer. Simul.* 12 (2007), no. 8, 1584–1603.
+
+- [The Correspondence between Zero-divisor Graphs with 6 Vertices and Their Semigroups](https://www.worldscientific.com/doi/10.1142/S021949880700220X). joint with Y. Huang, *Journal of Algebra and its Applications*. 6 (2007), no. 2, 287--290. 13-04.
 
 ## Preprint
 

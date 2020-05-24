@@ -9,7 +9,7 @@ Center China Normal University
 
 430079, Wuhan, China
 
-Email: longyangjing(at)gmail(dot)com
+Email: yangjing(at)mail(dot)ccnu(dot)edu(dot)cn
 
 
 ## Personal information

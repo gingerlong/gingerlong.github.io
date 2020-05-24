@@ -27,13 +27,13 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Publication
 - [Classes of tree-based networks](https://pubmed.ncbi.nlm.nih.gov/32415350/), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke. *Visual Computing for Industry,*
-  *Biomedicine, and Art.*2020, 3(1):12. 
+  *Biomedicine, and Art.* 2020, 3(1):12. 
   
   <!--Published 2020 May 15. -->
   
 - [Exact-2-Relation Graphs], joint with P. F. Stadler, to appear in to *Discrete Applied Mathematics*.
 
-- [A Short Note on Undirected Fitch Graphs](https://adam-journal.eu/index.php/ADAM/article/view/1245), joint with M. Geiß, M. Hellmuth, P. F. Stadler. *The art of discrete and applied mathematics*, 2018, 1(1).
+- [A Short Note on Undirected Fitch Graphs](https://adam-journal.eu/index.php/ADAM/article/view/1245), joint with M. Geiß, M. Hellmuth, P. F. Stadler. *The art of discrete and applied mathematics.* 2018, 1(1).
 
 - [Reconstructing unrooted phylogenetic trees from symbolic ternary metrics](https://link.springer.com/article/10.1007/s11538-018-0413-7),  joint with S. Grünewald, Y. Wu, *Bulletin of Mathematical Biology*. 2018, 80: 1563–1577.
 

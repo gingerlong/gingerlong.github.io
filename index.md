@@ -26,7 +26,7 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
 Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Publication
-- [Classes of tree-based networks](https://pubmed.ncbi.nlm.nih.gov/32415350/), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, to appear in *Visual Computing for Industry,*
+- [Classes of tree-based networks](https://pubmed.ncbi.nlm.nih.gov/32415350/), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke. *Visual Computing for Industry,*
   *Biomedicine, and Art.*2020, 3(1):12. 
   
   <!--Published 2020 May 15. -->

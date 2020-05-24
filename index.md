@@ -19,6 +19,8 @@ Center China Normal University](http://maths.ccnu.edu.cn/English/HO.htm/). I rec
 
 I completed my BS in mathematics at [Shanghai Jiao Tong University](https://www.math.sjtu.edu.cn).
 
+My ORCID: https://orcid.org/0000-0001-5934-1326
+
 ## Research Interests
 
 My research interests are in graph theory and phylogenetic combinatorics, including combinatorics in the application of biology and quantum information.

@@ -29,7 +29,17 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Publication
 
-- [Exact-2-Relation Graphs], joint with P. F. Stadler, to appear in to *Discrete Applied Mathematics*.
+- [Non-binary treebased unrooted phylogenetic networks and their relations to binary and rooted ones](https://arxiv.org/abs/1810.06853), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, accepted to *Discrete Applied Mathematics*.
+
+  <!--accepted 2021 January 11. -->
+
+- [Word-representability of split graphs](https://arxiv.org/abs/1709.09725), accepted to *Journal of Combinatorics*,  joint with Kitaev, S., Ma, J., & Wu, H.
+
+  <!--accepted 2020 Sep 14. -->
+
+- [Exact-2-Relation Graphs](https://www.sciencedirect.com/science/article/abs/pii/S0166218X20302638), joint with P. F. Stadler. *Discrete Applied Mathematics*. 2020, 285: 212-226.
+
+  <!--Published 2020 Oct 15. -->
 
 - [Classes of tree-based networks](https://pubmed.ncbi.nlm.nih.gov/32415350/), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke. *Visual Computing for Industry,*
   *Biomedicine, and Art.* 2020, 3(1):12. 
@@ -60,7 +70,6 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 - [Non-binary treebased unrooted phylogenetic networks and their relations to binary and rooted ones](https://arxiv.org/abs/1810.06853)
 - 
-  [Word-representability of split graphs](https://arxiv.org/abs/1709.09725)
 
 
 

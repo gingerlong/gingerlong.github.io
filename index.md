@@ -29,11 +29,11 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Publication
 
-- [Non-binary treebased unrooted phylogenetic networks and their relations to binary and rooted ones](https://arxiv.org/abs/1810.06853), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, accepted to *Discrete Applied Mathematics*.
+- [Unrooted non-binary tree-based phylogenetic networks](https://www.sciencedirect.com/science/article/pii/S0166218X21000135), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, *Discrete Applied Mathematics*. 2021， 294：10-30.
 
   <!--accepted 2021 January 11. -->
 
-- [Word-representability of split graphs](https://arxiv.org/abs/1709.09725), accepted to *Journal of Combinatorics*,  joint with Kitaev, S., Ma, J., & Wu, H.
+- [Word-representability of split graphs](https://arxiv.org/abs/1709.09725),  joint with Kitaev, S., Ma, J., & Wu, H.  *Journal of Combinatorics*. 2020.
 
   <!--accepted 2020 Sep 14. -->
 

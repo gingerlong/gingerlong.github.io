@@ -29,7 +29,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Publication
 
-- [Neighbor sum distinguishable $k$-edge colorings of joint graphs](https://link.springer.com/article/10.1007/s10878-025-01309-z). Joint with [Xiangzhi Tu, Peng Li & Aifa Wang ]. Journal of Combinatorial Optimization, 2025, Volume 49, Issue 1, pages 123–135.
+- [Neighbor sum distinguishable $k$-edge colorings of joint graphs](https://link.springer.com/article/10.1007/s10878-025-01309-z). Joint with Xiangzhi Tu, Peng Li, Aifa Wang. *Journal of Combinatorial Optimization*, 2025, Volume 49, Issue 1, pages 123–135.
 
 - [Unrooted non-binary tree-based phylogenetic networks](https://www.sciencedirect.com/science/article/pii/S0166218X21000135), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, *Discrete Applied Mathematics*. 2021， 294：10-30.
 

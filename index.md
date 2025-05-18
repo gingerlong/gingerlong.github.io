@@ -15,7 +15,7 @@ Email: yangjing(at)mail(dot)ccnu(dot)edu(dot)cn
 ## Personal information
 
 Currently I'm an associate professor at [School of Mathematics and Statistics,
-Center China Normal University](http://maths.ccnu.edu.cn/English/HO.htm/). I received my PhD from the [Max-Planck Institute for Mathematics]([https://www.mis.mpg.de/](https://www.mis.mpg.de/)). My advisor was [Jürgen Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and [Peter F. Stadler](http://www.bioinf.uni-leipzig.de/~studla/). My dissertation defense was on October 18th, 2014.
+Center China Normal University](http://maths.ccnu.edu.cn/English/HO.htm/). I received my PhD from the [Max-Planck Institute for Mathematics]([https://www.mis.mpg.de/](https://www.mis.mpg.de/). My advisor was [Jürgen Jost](https://www.mis.mpg.de/jjost/juergen-jost.html) and [Peter F. Stadler](http://www.bioinf.uni-leipzig.de/~studla/). My dissertation defense was on October 18th, 2014.
 
 I completed my BS in mathematics at [Shanghai Jiao Tong University](https://www.math.sjtu.edu.cn).
 

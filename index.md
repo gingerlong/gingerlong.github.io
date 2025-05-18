@@ -30,7 +30,8 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 ## Publication
 
 - [Neighbor sum distinguishable $k$-edge colorings of joint graphs](https://link.springer.com/article/10.1007/s10878-025-01309-z). Joint with Xiangzhi Tu, Peng Li, Aifa Wang. *Journal of Combinatorial Optimization*, 2025, Volume 49, Issue 1, pages 123–135.
-- [On the unit interval graphs which are paired-disjoint path coverable](https://www.worldscientific.com/doi/10.1142/S021949880700220X). P Li, T Liu, *Discrete Mathematics, Algorithms and Applications*. 16 (08), 2350105.
+  
+- [On the unit interval graphs which are paired-disjoint path coverable](https://www.worldscientific.com/doi/10.1142/S1793830923501057). Joint with P Li, T Liu, *Discrete Mathematics, Algorithms and Applications*. 16 (08), 2350105.
 
 - [Unrooted non-binary tree-based phylogenetic networks](https://www.sciencedirect.com/science/article/pii/S0166218X21000135), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, *Discrete Applied Mathematics*. 2021， 294：10-30.
 

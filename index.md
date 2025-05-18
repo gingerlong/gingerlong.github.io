@@ -71,7 +71,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 ## Preprint
 
 
-- [A characterization of multigraphs reaching Goldbuer’s bound of chromatic index]. joint with Qiong Fan, Chunxiang Wang, Shijing Wang.
+- A characterization of multigraphs reaching Goldbuer’s bound of chromatic index. joint with Qiong Fan, Chunxiang Wang, Shijing Wang.
 
 
 

@@ -35,7 +35,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 - [Universality of Intervals of Line Graph Order](https://www.sciencedirect.com/science/article/pii/S0195669814000705), joint with J. Fiala, J. Hubika, *European Journal of Combinatorics*, 2014, 41, 221–231.
 
-- [Demosaicking recognition with applications in digital photo authentication based on a quadratic pixel correlation model.](https://ieeexplore.ieee.org/document/4587889), joint with Y. Huang. *CVPR* 2008.
+- [Demosaicking recognition with applications in digital photo authentication based on a quadratic pixel correlation model.](https://ieeexplore.ieee.org/document/4587889), joint with Y. Huang. *CVPR*, 2008.
 
 ## Other Publications
 

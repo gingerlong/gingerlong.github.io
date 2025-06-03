@@ -27,7 +27,17 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
 
 Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
-## Publication
+## Selected Publication list
+
+- [Inference of Phylogenetic Trees from the Knowledge of Rare Evolutionary Events](https://www.ncbi.nlm.nih.gov/pubmed/29218395), joint with M. Hellmuth, M. Hernandez-Rosales,  P. F. Stadler, *Journal of mathematical biology*. 2018, 76(7):1623-1653.
+
+- [Fractal property of homomorphism order](https://www.sciencedirect.com/science/article/pii/S0195669817300914), joint with J. Fiala, J. Hubicka, J. Nesetril, *European Journal of Combinatorics*, 2017, 66: 101-109.
+
+- [Universality of Intervals of Line Graph Order](https://www.sciencedirect.com/science/article/pii/S0195669814000705), joint with J. Fiala, J. Hubika, *European Journal of Combinatorics*, 2014, 41, 221–231.
+
+- [Demosaicking recognition with applications in digital photo authentication based on a quadratic pixel correlation model.](https://ieeexplore.ieee.org/document/4587889), joint with Y. Huang. *CVPR* 2008.
+
+## Other Publications
 
 - [Neighbor sum distinguishable $k$-edge colorings of joint graphs](https://link.springer.com/article/10.1007/s10878-025-01309-z). Joint with Xiangzhi Tu, Peng Li, Aifa Wang. *Journal of Combinatorial Optimization*, 2025, Volume 49, Issue 1, pages 123–135.
   
@@ -54,15 +64,15 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 - [Reconstructing unrooted phylogenetic trees from symbolic ternary metrics](https://link.springer.com/article/10.1007/s11538-018-0413-7),  joint with S. Grünewald, Y. Wu, *Bulletin of Mathematical Biology*. 2018, 80: 1563–1577.
 
-- [Inference of Phylogenetic Trees from the Knowledge of Rare Evolutionary Events](https://www.ncbi.nlm.nih.gov/pubmed/29218395), joint with M. Hellmuth, M. Hernandez-Rosales,  P. F. Stadler, *Journal of mathematical biology*. 2018, 76(7):1623-1653.
+
 
 - [Gaps in full homomorphism order](https://www.sciencedirect.com/science/article/pii/S1571065317301555), joint with J. Fiala, J. Hubicka, *Electronic Notes in Discrete Mathematics*. 2017, 61: 429-435.
 
-- [Fractal property of homomorphism order](https://www.sciencedirect.com/science/article/pii/S0195669817300914), joint with J. Fiala, J. Hubicka, J. Nesetril, *European Journal of Combinatorics*, 2017, 66: 101-109.
+
 
 - [An universality argument for graph homomorphisms](https://www.sciencedirect.com/science/article/pii/S157106531500133X), joint with J. Fiala, J. Hubicka, *Electronic Notes in Discrete Mathematics*, 2015, 49: 643-649.
 
-- [Universality of Intervals of Line Graph Order](https://www.sciencedirect.com/science/article/pii/S0195669814000705), joint with J. Fiala, J. Hubika, *European Journal of Combinatorics*, 2014, 41, 221–231.
+
 
 - [Relations Between Graphs](https://amc-journal.eu/index.php/amc/article/download/335/603), joint with J. Hubicka, J. Jost, P. Stadler, L. Yang, *Ars Mathematica Contemporanea*, 2012, 6 no. 2, 323-350.
 

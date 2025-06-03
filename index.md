@@ -27,7 +27,7 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
 
 Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
-## Selected Publication list
+## Selected Publications
 
 - [Inference of Phylogenetic Trees from the Knowledge of Rare Evolutionary Events](https://www.ncbi.nlm.nih.gov/pubmed/29218395), joint with M. Hellmuth, M. Hernandez-Rosales,  P. F. Stadler, *Journal of mathematical biology*. 2018, 76(7):1623-1653.
 

@@ -44,13 +44,16 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
   
 - [On the unit interval graphs which are paired-disjoint path coverable](https://www.worldscientific.com/doi/10.1142/S1793830923501057). Joint with P Li, T Liu, *Discrete Mathematics, Algorithms and Applications*, 2024, 16 (08), 2350105.
 
+-  [Word-representability of split graphs](https://arxiv.org/abs/1709.09725),  joint with Kitaev, S., Ma, J., & Wu, H.  *Journal of Combinatorics*. 2022, 12(4), 725-746.
+
+
+  <!--accepted 2020 Sep 14. -->
+
 - [Unrooted non-binary tree-based phylogenetic networks](https://www.sciencedirect.com/science/article/pii/S0166218X21000135), joint with Mareike Fischer, Michelle Galla, Lina Herbst and Kristina Wicke, *Discrete Applied Mathematics*. 2021， 294：10-30.
 
   <!--accepted 2021 January 11. -->
 
-- [Word-representability of split graphs](https://arxiv.org/abs/1709.09725),  joint with Kitaev, S., Ma, J., & Wu, H.  *Journal of Combinatorics*. 2020.
 
-  <!--accepted 2020 Sep 14. -->
 
 - [Exact-2-Relation Graphs](https://www.sciencedirect.com/science/article/abs/pii/S0166218X20302638), joint with P. F. Stadler. *Discrete Applied Mathematics*. 2020, 285: 212-226.
 

@@ -38,7 +38,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 - [Demosaicking recognition with applications in digital photo authentication based on a quadratic pixel correlation model.](https://ieeexplore.ieee.org/document/4587889), joint with Y. Huang. *CVPR*, 2008.
 
 ## Other Publications
-- A characterization of multigraphs reaching Goldbuer’s bound of chromatic index. joint with Qiong Fan, Chunxiang Wang, Shijing Wang, to appear in Journal of Graph theory.
+- [A characterization of multigraphs reaching Goldbuer’s bound of chromatic index](https://onlinelibrary.wiley.com/doi/10.1002/jgt.70006). joint with Qiong Fan, Chunxiang Wang, Shijing Wang, *Journal of Graph theory*, 2026, Volume 111, Issue 4, pages 99-112.
 
 - [Neighbor sum distinguishable $k$-edge colorings of joint graphs](https://link.springer.com/article/10.1007/s10878-025-01309-z). Joint with Xiangzhi Tu, Peng Li, Aifa Wang. *Journal of Combinatorial Optimization*, 2025, Volume 49, Issue 1, pages 123–135.
   

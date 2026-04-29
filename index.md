@@ -29,10 +29,6 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
 
 Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
-## Professional Affiliations
-
-Member, Specialized Committee on Math and AI, Chinese Mathematical Society
-
 ## Selected Publications
 
 - [Inference of Phylogenetic Trees from the Knowledge of Rare Evolutionary Events](https://www.ncbi.nlm.nih.gov/pubmed/29218395), joint with M. Hellmuth, M. Hernandez-Rosales,  P. F. Stadler, *Journal of mathematical biology*. 2018, 76(7):1623-1653.
@@ -92,18 +88,27 @@ Member, Specialized Committee on Math and AI, Chinese Mathematical Society
 
 ## Preprint
 
+- Defining a phylogenetic tree with the minimum number of small-state characters, joint with T. Wang, submitted.
 
+ - Making a Network Orchard by arc deletions, joint with G. Chen, J. Kozik, X. Zhu, J. Zhu, submitted.
 
+- Quantum homormorphism orders.
+
+- Constrained homomorphism partial orders. joint with J. Fiala, J. Hubicka.
+
+- Proximity Measures for Classes of Phylogenetic Networks, joint with L. van Iersel, M. Jones, E. Julien, Y. Murakami.
+
+- Proximity Measure Based on Arc Deletions in Orchard Phylogenetic Networks, joint with Z. Liu, P. Li.
 
 
 
 ## Service
 
+Member, Specialized Committee on Math and AI, Chinese Mathematical Society
+
 Reviewer for MathSciNet, 2018-present.
 
 
 
-## Talks and Presentations
 
-in preparation
 

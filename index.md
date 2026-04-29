@@ -108,9 +108,9 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Service
 
-Member, Specialized Committee on Math and AI, Chinese Mathematical Society
+- Member, Specialized Committee on Math and AI, Chinese Mathematical Society
 
-Reviewer for MathSciNet, 2018-present.
+- Reviewer for MathSciNet, 2018-present.
 
 
 

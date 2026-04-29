@@ -29,8 +29,29 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
 
 Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
-## Research Projects
 
+
+## Grants 
+- **2025 – 2027** Principal Investigator, Open Research Project of Fuzhou University  
+  Funding: 50,000 RMB
+- **2024 – 2026** Collaborator, Open Research Project of Central China Normal University (Cooperated with Chongqing University of Technology)  
+  Funding: 50,000 RMB
+- **2025 – 2027** Collaborator, Open Research Project of Central China Normal University (Cooperated with Zhejiang Normal University)  
+  Funding: 20,000 RMB
+- **2025 – 2026** Principal Investigator, Huawei Horizontal Project (Ascend Program)  
+  Funding: 40,000 RMB
+- **2020 – 2022** Principal Investigator, Project *Path Systems of Edge-Labeled Phylogenetic Trees*, No. 20201191803  
+  Funding: 250,000 RMB, Youth Fund, National Natural Science Fund for Chinese Postdocs, China
+- **2019 – 2020** Principal Investigator, Fundamental Research Funds for the Central Universities  
+  Funding: 100,000 RMB
+- **2018 – 2019** Principal Investigator, Fundamental Research Funds for the Central Universities  
+  Funding: 100,000 RMB
+- **2018 – 2021** Main Participant, Project *Contextuality as a Resource in Quantum Computation* (61771011)  
+  Funding: 520,000 RMB, National Natural Science Fund, CN.
+- **2017 – 2020** Main Participant, Project *Discrete Dynamics and Beyond* (11671258)  
+  Funding: 480,000 RMB, National Natural Science Fund, CN.
+- **2016 – 2017** Principal Investigator, Project *Some problems on graph homomorphisms*, No. 154463  
+  Funding: 50,000 RMB, National Natural Science Fund of Chinese Postdoc, CN.
 ## Selected Publications
 
 - [Inference of Phylogenetic Trees from the Knowledge of Rare Evolutionary Events](https://www.ncbi.nlm.nih.gov/pubmed/29218395), joint with M. Hellmuth, M. Hernandez-Rosales,  P. F. Stadler, *Journal of mathematical biology*. 2018, 76(7):1623-1653.

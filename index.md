@@ -29,6 +29,8 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
 
 Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
+## Research Projects
+
 ## Selected Publications
 
 - [Inference of Phylogenetic Trees from the Knowledge of Rare Evolutionary Events](https://www.ncbi.nlm.nih.gov/pubmed/29218395), joint with M. Hellmuth, M. Hernandez-Rosales,  P. F. Stadler, *Journal of mathematical biology*. 2018, 76(7):1623-1653.
@@ -99,8 +101,10 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 - Proximity Measures for Classes of Phylogenetic Networks, joint with L. van Iersel, M. Jones, E. Julien, Y. Murakami.
 
 - Proximity Measure Based on Arc Deletions in Orchard Phylogenetic Networks, joint with Z. Liu, P. Li.
+  
+## Competition Guidance
 
-
+- First Prize, 2023 Postgraduate Mathematical Modeling Competition (Top 1%)
 
 ## Service
 

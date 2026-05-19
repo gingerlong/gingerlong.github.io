@@ -111,7 +111,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Preprint
 
-- Defining a phylogenetic tree with the minimum number of small-state characters, joint with T. Wang, submitted.
+- [Defining a phylogenetic tree with the minimum number of small-state characters](https://arxiv.org/abs/2508.15533), joint with T. Wang, submitted.
 
  - The AT-number of the line graph of multicircuits and multicomplete bipartite graphs, joint with G. Chen, J. Kozik, X. Zhu, J. Zhu, submitted.
 

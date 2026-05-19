@@ -113,11 +113,13 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 - Defining a phylogenetic tree with the minimum number of small-state characters, joint with T. Wang, submitted.
 
- - Making a Network Orchard by arc deletions, joint with G. Chen, J. Kozik, X. Zhu, J. Zhu, submitted.
+ - The AT-number of the line graph of multicircuits and multicomplete bipartite graphs, joint with G. Chen, J. Kozik, X. Zhu, J. Zhu, submitted.
 
-- Quantum homormorphism orders.
+- Quantum homormorphism orders. submitted.
+  
+- On the Generalized Nearest Neighbor Interchange Operations, joint with Stefan Gruenewald, Peter Humphries, Taoyang Wu.
 
-- Constrained homomorphism partial orders. joint with J. Fiala, J. Hubicka.
+- Constrained homomorphism partial orders, joint with J. Fiala, J. Hubicka.
 
 - Proximity Measures for Classes of Phylogenetic Networks, joint with L. van Iersel, M. Jones, E. Julien, Y. Murakami.
 

@@ -115,7 +115,11 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
  - The AT-number of the line graph of multicircuits and multicomplete bipartite graphs, joint with G. Chen, J. Kozik, X. Zhu, J. Zhu, submitted.
 
-- Quantum homormorphism orders. submitted.
+- [The quantum homomorphism orders are universal](https://arxiv.org/html/2605.19543v), submitted.
+  
+- [A Characterization of Level-k Realizability for Clustering Systems]()joint with S. Dai, submitted.
+  
+- [Computing the Arc-Deletion Distance to Orchard Networks is NP-hard](https://arxiv.org/abs/2605.19962), joint with Z. Liu, P. Li, submitted.
   
 - On the Generalized Nearest Neighbor Interchange Operations, joint with Stefan Gruenewald, Peter Humphries, Taoyang Wu.
 
@@ -123,7 +127,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 - Proximity Measures for Classes of Phylogenetic Networks, joint with L. van Iersel, M. Jones, E. Julien, Y. Murakami.
 
-- Proximity Measure Based on Arc Deletions in Orchard Phylogenetic Networks, joint with Z. Liu, P. Li.
+
   
 ## Competition Guidance
 

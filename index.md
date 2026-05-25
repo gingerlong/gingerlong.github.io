@@ -54,6 +54,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
   Funding: 50,000 RMB, National Natural Science Fund of Chinese Postdoc, CN.
 ## Selected Publications
 
+
 - [Inference of Phylogenetic Trees from the Knowledge of Rare Evolutionary Events](https://www.ncbi.nlm.nih.gov/pubmed/29218395), joint with M. Hellmuth, M. Hernandez-Rosales,  P. F. Stadler, *Journal of mathematical biology*. 2018, 76(7):1623-1653.
 
 - [Fractal property of homomorphism order](https://www.sciencedirect.com/science/article/pii/S0195669817300914), joint with J. Fiala, J. Hubicka, J. Nesetril, *European Journal of Combinatorics*, 2017, 66: 101-109.
@@ -111,6 +112,9 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 ## Preprint
 
+- [Fixed-charge saturation and two-weight domination for the k-th Roman domination problem on interval graphs], joint with P. Li, submitted.
+ <!--SIAM 2026 May 25. -->
+
 - [Defining a phylogenetic tree with the minimum number of small-state characters](https://arxiv.org/abs/2508.15533), joint with T. Wang, submitted.
 
  - The AT-number of the line graph of multicircuits and multicomplete bipartite graphs, joint with G. Chen, J. Kozik, X. Zhu, J. Zhu, submitted.
@@ -120,6 +124,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 - [A Characterization of Level-k Realizability for Clustering Systems]()joint with S. Dai, submitted.
   
 - [Computing the Arc-Deletion Distance to Orchard Networks is NP-hard](https://arxiv.org/abs/2605.19962), joint with Z. Liu, P. Li, submitted.
+ <!--TCS -->
   
 - On the Generalized Nearest Neighbor Interchange Operations, joint with Stefan Gruenewald, Peter Humphries, Taoyang Wu.
 

@@ -121,7 +121,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 
 - [The quantum homomorphism orders are universal](https://arxiv.org/html/2605.19543v), submitted.
   
-- [A Characterization of Level-k Realizability for Clustering Systems]()joint with S. Dai, submitted.
+- [A Characterization of Level-k Realizability for Clustering Systems](https://arxiv.org/abs/2605.21945)joint with S. Dai, submitted.
   
 - [Computing the Arc-Deletion Distance to Orchard Networks is NP-hard](https://arxiv.org/abs/2605.19962), joint with Z. Liu, P. Li, submitted.
  <!--TCS -->

@@ -195,7 +195,7 @@ th {
       <span>Erdős number: 2</span>
     </div>
   </div>
-  <img class="profile-photo" src="./assets/profile.png" alt="Portrait of Yangjing Long">
+  <img class="profile-photo" src="./profile.png" alt="Portrait of Yangjing Long">
 </div>
 
 <div class="toc">

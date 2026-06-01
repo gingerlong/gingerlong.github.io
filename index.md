@@ -52,6 +52,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
   Funding: 480,000 RMB, National Natural Science Fund, CN.
 - **2016 – 2017** Principal Investigator, Project *Some problems on graph homomorphisms*, No. 154463  
   Funding: 50,000 RMB, National Natural Science Fund of Chinese Postdoc, CN.
+  
 ## Selected Publications
 
 
@@ -111,6 +112,7 @@ Here is my [dissertation](https://arxiv.org/abs/1404.5334).
 - [The Correspondence between Zero-divisor Graphs with 6 Vertices and Their Semigroups](https://www.worldscientific.com/doi/10.1142/S021949880700220X). joint with Y. Huang, *Journal of Algebra and its Applications*. 2007, 6 no. 2, 287--290.
 
 ## Preprint
+- [Exact Leaf Powers on Cycles, Ladders, Crowns, and Multipartite Block Graphs], joint with P. Li, submitted.
 
 - [Fixed-charge saturation and two-weight domination for the k-th Roman domination problem on interval graphs], joint with P. Li, submitted.
  <!--SIAM 2026 May 25. -->

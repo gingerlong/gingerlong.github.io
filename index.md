@@ -281,6 +281,7 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
   <li><a href="https://arxiv.org/abs/2606.06905">An Explicit O(r\log r) Threshold for Attaining the Semple--Steel Bound with r-State Characters</a>, joint with P. Li, submitted.</li>
   <li><a href="https://arxiv.org/abs/2606.02271">Exact Leaf Powers on Cycles, Ladders, Crowns, and Multipartite Block Graphs</a>, joint with P. Li, submitted.</li>
   <li><em>Fixed-Charge Saturation and Two-Weight Domination for the k-th Roman Domination Problem on Interval Graphs</em>, joint with P. Li, submitted.</li>
+  <li><em>A Unified BFS-Layer Framework for K-Feasible Domination Problems</em>, joint with Peng Li, submitted.</li>
   <li><a href="https://arxiv.org/abs/2508.15533">Defining a Phylogenetic Tree with the Minimum Number of Small-State Characters</a>, joint with T. Wang, submitted.</li>
   <li><em>The AT-Number of the Line Graph of Multicircuits and Multicomplete Bipartite Graphs</em>, joint with G. Chen, J. Kozik, X. Zhu, and J. Zhu, submitted.</li>
   <li><a href="https://arxiv.org/abs/2605.19543">The Quantum Homomorphism Orders Are Universal</a>, submitted.</li>

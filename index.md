@@ -278,7 +278,7 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
 ## Preprints
 
 <ul class="compact-list">
-  <li><em>Semantic Cues, Rather Than Scores, Drive LLM-Simulated ADHD-like Participants: A Human-Benchmark, Cue-Contribution, and Individual-Prediction Study</em>, joint with Wei Zhang, Songjie Tian, and Chenguang Zhao, submitted.</li>
+  <li><em>Semantic Cues, Rather Than Scores, Drive LLM-Simulated ADHD-like Participants: A Human-Benchmark, Cue-Contribution, and Individual-Prediction Study</em>, joint with Wei Zhang, Songjie Tian, and Tiantian Li, submitted.</li>
   <li><a href="https://arxiv.org/abs/2606.06905">An Explicit O(r\log r) Threshold for Attaining the Semple--Steel Bound with r-State Characters</a>, joint with P. Li, to be submitted.</li>
   <li><a href="https://arxiv.org/abs/2606.02271">Exact Leaf Powers on Cycles, Ladders, Crowns, and Multipartite Block Graphs</a>, joint with P. Li, to be submitted.</li>
   <li><em>Fixed-Charge Saturation and Two-Weight Domination for the k-th Roman Domination Problem on Interval Graphs</em>, joint with P. Li, submitted.</li>

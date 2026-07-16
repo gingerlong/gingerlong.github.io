@@ -293,7 +293,7 @@ My research interests are in graph theory and phylogenetic combinatorics, includ
   <li><em>On the Generalized Nearest Neighbor Interchange Operations</em>, joint with Stefan Grünewald, Peter Humphries, and Taoyang Wu.</li>
   <li><a href="https://arxiv.org/abs/2606.09231">Constrained Homomorphism Partial Orders</a>, joint with J. Fiala and J. Hubicka.</li>
     <!--with Honza-->
-  <li><em>Proximity Measures for Classes of Phylogenetic Networks</em>, joint with L. van Iersel, M. Jones, E. Julien, and Y. Murakami.</li>
+  <li><a href="http://arxiv.org/abs/2607.11325">Proximity Measures for Classes of Phylogenetic Networks</em>, joint with L. van Iersel, M. Jones, E. Julien, and Y. Murakami.</li>
 </ul>
 
 ## Competition Guidance
